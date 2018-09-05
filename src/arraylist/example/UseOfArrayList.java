@@ -9,13 +9,12 @@ public class UseOfArrayList {
         list.add(10);
         list.add(15);
         list.add(25);
+        list.add(30);
 
         for(Integer number:list) {
             System.out.println(number);
-
-
         }
-
+         System.out.println("This file is edited by Hasan"); 
     }
 }
 
